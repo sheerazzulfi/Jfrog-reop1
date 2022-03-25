@@ -76,12 +76,12 @@
     <repository>
         <id>central</id>
         <name>DESKTOP-AEFH5G0-releases</name>
-        <url>http://localhost:8081/artifactory/devops</url>
+        <url>http://localhost:8082/artifactory/devops</url>
     </repository>
      <snapshotRepository>
         <id>snapshots</id>
         <name>DESKTOP-AEFH5G0-snapshots</name>
-        <url>http://localhost:8081/artifactory/devops1</url>
+        <url>http://localhost:8082/artifactory/devops1</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
